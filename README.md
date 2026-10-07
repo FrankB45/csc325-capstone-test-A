@@ -7,4 +7,4 @@ Serve this directory with `python3 -m http.server 8000` and open http://localhos
 The supported static sites use only HTML, CSS, flat CSS and original local PNG artwork.
 No external requests, fonts, accounts, or secrets are needed.
 
-
+The venue and opening hours are sample data. All artwork is original.
